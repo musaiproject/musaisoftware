@@ -6,3 +6,5 @@ Musaiproject est né de cette volonté. Nous cherchons à créer un outil capabl
 - Différents outils de deep learning pour la compréhention du language naturel
 - Un générateur de note
 - Et de nombreux autres outils en dévloppement pour faire aboutir notre projet
+
+L'executable est une version alpha du générateur de musique. Les textes accéptés en entrée dans l'interface sont sadness, annoyance, funny, fear, pride, neutral, qui renvoient la mélodie correspondant à l'émotion.
