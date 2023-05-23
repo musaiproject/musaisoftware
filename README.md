@@ -26,7 +26,7 @@ N'oubliez pas de consulter régulièrement le dépôt pour obtenir les mises à 
 ## Requirements
 Pour exécuter le notebook, vous avez besoin des éléments suivants :
 
-- Python 3.x
+- Python 3.9
 - Jupyter Notebook ou JupyterLab
 - Les bibliothèques Python requises : pandas, numpy, matplotlib, seaborn, scipy
 Vous pouvez installer les bibliothèques nécessaires en exécutant la commande `pip install -r requirements.txt` dans votre environnement Python.
