@@ -32,11 +32,11 @@ Pour exécuter le notebook, vous avez besoin des éléments suivants :
 Vous pouvez installer les bibliothèques nécessaires en exécutant la commande `pip install -r requirements.txt` dans votre environnement Python.
 
 ## Sources
-- [RELATIONS BETWEEN MUSICAL STRUCTURES AND PERCEIVED AND FELT EMOTIONS](Sci-Hub | Relations Between Musical Structures and Perceived and Felt Emotions. Music Perception: An Interdisciplinary Journal, 30(4), 407–417 | 10.1525/mp.2013.30.4.407)
+- [RELATIONS BETWEEN MUSICAL STRUCTURES AND PERCEIVED AND FELT EMOTIONS](https://online.ucpress.edu/mp/article-abstract/30/4/407/62565/Relations-Between-Musical-Structures-and-Perceived?redirectedFrom=fulltext)
 
-- [THERE ARE TWO KINDS OF MUSICAL EMOTIONS: perceived emotion (expressed by musical pieces) and felt emotion (induced in Listeners)](EMOSIC — An emotion based music player for Android | IEEE Conference Publication | IEEE Xplore)
+- [THERE ARE TWO KINDS OF MUSICAL EMOTIONS: perceived emotion (expressed by musical pieces) and felt emotion (induced in Listeners)](https://ieeexplore.ieee.org/document/8388671)
 - [treat music as a stimulus that can be dealt with by a single point response tracking emotional responses to music continuously](Music and Emotions - CMUSE) 
-- [Emotion Classification](Emotion classification - Wikipedia) 
+- [Emotion Classification](https://en.wikipedia.org/wiki/Emotion_classification) 
 ### Génération de mélodie MIDI via du texte: 
 -  [Lango Rythm](http://kickthejetengine.com/langorhythm/)
 -  [Typatone ](https://typatone.com/)
