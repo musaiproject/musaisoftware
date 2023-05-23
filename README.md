@@ -4,7 +4,7 @@
 
 Musai est un groupe fondé par des étudiants de l'ENSEA. Il a pour but premier de faciliter la compréhention mutuel à travers la musique et l'art, en donnant une sonorité aux sentiments. 
 Musaiproject est né de cette volonté. Nous cherchons à créer un outil capable, à partir d'un texte, écrit ou oral, d'un ressenti, finalement d'une émotion, de produire une musique qui communiquera cette émotion à tout ceux qui peuvent l'entendre. Vous trouverez dans ce git la genèse un code python correspondant à la génèse de notre projet, et comportant notamment : 
-- Un sythétiseur
+- Un synthétiseur
 - Différents outils de deep learning pour la compréhention du language naturel
 - Un générateur de note
 - Et de nombreux autres outils en dévloppement pour faire aboutir notre projet
@@ -28,8 +28,8 @@ Pour exécuter le notebook, vous avez besoin des éléments suivants :
 
 - Python 3.9
 - Jupyter Notebook ou JupyterLab
-- Les bibliothèques Python requises : pandas, numpy, matplotlib, seaborn, scipy
-Vous pouvez installer les bibliothèques nécessaires en exécutant la commande `pip install -r requirements.txt` dans votre environnement Python.
+- Les bibliothèques Python requises : pandas, numpy, Pygames, torch, random, time, transformers et pyo.
+Vous pouvez installer les bibliothèques nécessaires en exécutant la commande `pip install` dans votre environnement Python.
 
 ## Resources
 - [RELATIONS BETWEEN MUSICAL STRUCTURES AND PERCEIVED AND FELT EMOTIONS](https://online.ucpress.edu/mp/article-abstract/30/4/407/62565/Relations-Between-Musical-Structures-and-Perceived?redirectedFrom=fulltext)
