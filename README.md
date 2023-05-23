@@ -38,11 +38,11 @@ Vous pouvez installer les bibliothèques nécessaires en exécutant la commande 
 - [treat music as a stimulus that can be dealt with by a single point response tracking emotional responses to music continuously](Music and Emotions - CMUSE) 
 - [Emotion Classification](Emotion classification - Wikipedia) 
 ### Génération de mélodie MIDI via du texte: 
--  [Lango Rythm ]  (http://kickthejetengine.com/langorhythm/)
+-  [Lango Rythm](http://kickthejetengine.com/langorhythm/)
 -  [Typatone ](https://typatone.com/)
--  [MelodyBytes ] (https://melobytes.com/en/app/melobytes)
+-  [MelodyBytes](https://melobytes.com/en/app/melobytes)
 -  Mumbert :  [Git](https://github.com/MubertAI/Mubert-Text-to-Music) , [Site](https://mubert.com/) 
--  [PyTorch audio Models ](torchaudio.models)
+-  [PyTorch audio Models](torchaudio.models)
 -  [Generate audio with RNN](https://www.tensorflow.org/tutorials/audio/music_generation) 
 
 ### Génération texture sonore
