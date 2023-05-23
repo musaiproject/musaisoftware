@@ -31,5 +31,7 @@ Pour exécuter le notebook, vous avez besoin des éléments suivants :
 - Les bibliothèques Python requises : pandas, numpy, matplotlib, seaborn, scipy
 Vous pouvez installer les bibliothèques nécessaires en exécutant la commande `pip install -r requirements.txt` dans votre environnement Python.
 
-## Remerciements
-Un grand merci à [Antoine Haon](https://github.com/Mettran), [Rayane Ghilene](https://github.com/rayaneghilene) et [Mathys Daniel](https://github.com/MathysDaniel) pour leurs contributions à ce projet.
+## Sources
+
+## Auteurs 
+[Antoine Haon](https://github.com/Mettran), [Rayane Ghilene](https://github.com/rayaneghilene), [Mathys Daniel](https://github.com/MathysDaniel), et [Benjamin Colas](https://github.com/BenjaminENSEA).
