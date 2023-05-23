@@ -31,7 +31,7 @@ Pour exécuter le notebook, vous avez besoin des éléments suivants :
 - Les bibliothèques Python requises : pandas, numpy, matplotlib, seaborn, scipy
 Vous pouvez installer les bibliothèques nécessaires en exécutant la commande `pip install -r requirements.txt` dans votre environnement Python.
 
-## Sources
+## Resources
 - [RELATIONS BETWEEN MUSICAL STRUCTURES AND PERCEIVED AND FELT EMOTIONS](https://online.ucpress.edu/mp/article-abstract/30/4/407/62565/Relations-Between-Musical-Structures-and-Perceived?redirectedFrom=fulltext)
 
 - [THERE ARE TWO KINDS OF MUSICAL EMOTIONS: perceived emotion (expressed by musical pieces) and felt emotion (induced in Listeners)](https://ieeexplore.ieee.org/document/8388671)
