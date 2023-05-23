@@ -15,8 +15,8 @@ Musaiproject est né de cette volonté. Nous cherchons à créer un outil capabl
 
 Pour utiliser le dépôt "musaiproject" sur GitHub, suivez ces étapes :
 
-1. Clonez le dépôt en utilisant la commande suivante :   'git clone https://github.com/musaiproject/musaiproject.git'
-2. Accédez au répertoire cloné en utilisant la commande : 'cd musaiproject'
+1. Clonez le dépôt en utilisant la commande suivante :   `git clone https://github.com/musaiproject/musaiproject.git`
+2. Accédez au répertoire cloné en utilisant la commande : `cd musaiproject`
 3. Explorez les fichiers et dossiers du projet pour comprendre sa structure et son contenu.
 4. Consultez la documentation fournie dans le dépôt pour obtenir des informations sur l'utilisation du projet et les fonctionnalités disponibles.
 5. Si nécessaire, installez les dépendances ou les bibliothèques requises en suivant les instructions fournies dans le dépôt.
