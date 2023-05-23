@@ -35,7 +35,7 @@ Vous pouvez installer les bibliothèques nécessaires en exécutant la commande 
 - [RELATIONS BETWEEN MUSICAL STRUCTURES AND PERCEIVED AND FELT EMOTIONS](https://online.ucpress.edu/mp/article-abstract/30/4/407/62565/Relations-Between-Musical-Structures-and-Perceived?redirectedFrom=fulltext)
 
 - [THERE ARE TWO KINDS OF MUSICAL EMOTIONS: perceived emotion (expressed by musical pieces) and felt emotion (induced in Listeners)](https://ieeexplore.ieee.org/document/8388671)
-- [treat music as a stimulus that can be dealt with by a single point response tracking emotional responses to music continuously](Music and Emotions - CMUSE) 
+- [treat music as a stimulus that can be dealt with by a single point response tracking emotional responses to music continuously](https://www.cmuse.org/music-and-emotions/) 
 - [Emotion Classification](https://en.wikipedia.org/wiki/Emotion_classification) 
 ### Génération de mélodie MIDI via du texte: 
 -  [Lango Rythm](http://kickthejetengine.com/langorhythm/)
