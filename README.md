@@ -32,6 +32,29 @@ Pour exécuter le notebook, vous avez besoin des éléments suivants :
 Vous pouvez installer les bibliothèques nécessaires en exécutant la commande `pip install -r requirements.txt` dans votre environnement Python.
 
 ## Sources
+- [RELATIONS BETWEEN MUSICAL STRUCTURES AND PERCEIVED AND FELT EMOTIONS](Sci-Hub | Relations Between Musical Structures and Perceived and Felt Emotions. Music Perception: An Interdisciplinary Journal, 30(4), 407–417 | 10.1525/mp.2013.30.4.407)
+
+- [THERE ARE TWO KINDS OF MUSICAL EMOTIONS: perceived emotion (expressed by musical pieces) and felt emotion (induced in Listeners)](EMOSIC — An emotion based music player for Android | IEEE Conference Publication | IEEE Xplore)
+- [treat music as a stimulus that can be dealt with by a single point response tracking emotional responses to music continuously](Music and Emotions - CMUSE) 
+- [Emotion Classification](Emotion classification - Wikipedia) 
+### Génération de mélodie MIDI via du texte: 
+-  [Lango Rythm ]  (http://kickthejetengine.com/langorhythm/)
+-  [Typatone ](https://typatone.com/)
+-  [MelodyBytes ] (https://melobytes.com/en/app/melobytes)
+-  Mumbert :  [Git](https://github.com/MubertAI/Mubert-Text-to-Music) , [Site](https://mubert.com/) 
+-  [PyTorch audio Models ](torchaudio.models)
+-  [Generate audio with RNN](https://www.tensorflow.org/tutorials/audio/music_generation) 
+
+### Génération texture sonore
+- [DDSP](https://github.com/magenta/ddsp.git)
+- [Outile IA Ircam : VSCHAOS](https://github.com/domkirke/vschaos_package)
+- [Python](http://www.augmented-instruments.net/_media/pyo_as_python_dsp_toolbox.pdf)
+- [Pyo](http://ajaxsoundstudio.com/pyodoc/index.html#parts-of-the-documentation)
+### IA Analyse de texte en émotion
+- [Analyse du texte et de sa sonorité](https://ai.googleblog.com/2015/09/google-voice-search-faster-and-more.html)
+### Interface 
+- [Interface graphique tutoriel](https://python.doctor/page-tkinter-interface-graphique-python-tutoriel)
+
 
 ## Auteurs 
 [Antoine Haon](https://github.com/Mettran), [Rayane Ghilene](https://github.com/rayaneghilene), [Mathys Daniel](https://github.com/MathysDaniel), et [Benjamin Colas](https://github.com/BenjaminENSEA).
