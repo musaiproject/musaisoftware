@@ -57,4 +57,4 @@ Vous pouvez installer les bibliothèques nécessaires en exécutant la commande 
 
 
 ## Auteurs 
-[Antoine Haon](https://github.com/Mettran), [Rayane Ghilene](https://github.com/rayaneghilene), [Mathys Daniel](https://github.com/MathysDaniel), et [Benjamin Colas](https://github.com/BenjaminENSEA).
+[Antoine Haon](https://github.com/Mettran), [Rayane Ghilene](https://github.com/rayaneghilene), [Mathys Daniel](https://github.com/MathysDaniel), et [Benjamin Colas](https://github.com/BenjaminENSEA). 
